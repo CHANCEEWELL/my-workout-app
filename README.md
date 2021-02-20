@@ -25,6 +25,8 @@ The user will be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ![](images/fitness-tracker.png)
+![](images/add-exercise.png)
+![](images/last-workout.png)
 
 # Deployment Link
 
